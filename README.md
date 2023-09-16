@@ -4,6 +4,10 @@
 Software Development Life Cycle Project</h3>
  
 # Требования к проекту
-<a href="./documents"> 1. Документация </a>
-  <a href="" 1.1 Требования></a>
-<a href="./Code" 2. Код </a>  
+<div ><a href="./documents"> 1. Документация</a><br>
+<a href="" 1.1 Требования></a><br>
+<a href="./Code" 2. Код </a> <br> 
+<a href="./"> 3. Информация о тестировании </a>
+</div>
+
+ 
